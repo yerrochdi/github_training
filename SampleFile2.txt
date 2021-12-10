@@ -1,1 +1,2 @@
 Sample file2
+this is comparaison lecture samplefile2
