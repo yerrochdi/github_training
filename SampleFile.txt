@@ -3,3 +3,4 @@ hot_fix_1 hot_fix_1hot_fix_1hot_fix_1hot_fix_1hot_fix_1hot_fix_1hot_fix_1hot_fix
 Git revert commit 1
 Sample file1
 this is comparaison lecture
+this is stash lecture, Changee file1
